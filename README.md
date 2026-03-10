@@ -1,2 +1,5 @@
-# thermal-nociception-connectome
-Understanding Thermal Nociception Behavior Through Analysis of the Connectome
+# Understanding Thermal Nociception Behavior Through Analysis of the Connectome
+
+Understanding Thermal Nociception Behavior Through Analysis of the Drosophila Connectome
+
+As technology advances and our understanding of the brain evolves, a convergence between programmatic data analysis and cellular/molecular neuroscience emerges, allowing for a more comprehensive and systematic investigation of both the brain and the behavior of model organisms. An example of this are recent connectomics studies conducted with respect to the Drosophila melanogaster; these studies have mapped the location of every neuron and synapse present in the Female Adult Fly Brain (FAFB), and the resulting dataset has recently been made available to the public as an open scientific resource. The goal of this investigation is to use this dataset to evaluate the processes behind thermal nociception, or the neurological processing that results in an organism reacting to harmful temperatures in the environment. By analyzing the first-order input, output, and reciprocal neurons which are known to be involved in thermal nociception, we can begin to analyze different patterns and statistical correlations in these neurological pathways that were once overlooked. This analysis holds the keys to novel insights regarding the process of thermal nociception and neural control of behavior.
