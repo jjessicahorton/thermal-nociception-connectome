@@ -21,6 +21,8 @@ This is the final abstract I submtitted to App State's Celebration of Research i
 
 The vast majority of my time in Dr. Bellemer's research lab consisted of rigorous self study regarding the genetics and the cellular and molecular biology of the _Drosophila melanogaster_, alongside teaching myself how to create an intensive Python program such as this. My introductory Physics classes served me well by introducing me to Python, but it was in Dr. Bellemer's lab that my skills were pushed past their limits, and truly developed to the extent at which they are at now.
 
+An extra aside: I have extensively tried to upload the .ipynb, a zip file of the .ipynb, and the .pdf of all of my comprehensive source code for this project, however even the .zip file of this project is too large to upload onto GitHub, so for now my screenshots and presentation with the source code wll have to suffice. If you would like to see the entire project, please contact me via [LinkedIn](https://www.linkedin.com/in/jjessicahorton/) and I will do what I can to try and email it over to you.
+
 Thank you for taking the time to look at my project! 
 
 
