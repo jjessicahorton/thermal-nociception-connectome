@@ -4,12 +4,25 @@
 
 As technology advances and our understanding of the brain evolves, a convergence between programmatic data analysis and cellular/molecular neuroscience emerges, allowing for a more comprehensive and systematic investigation of both the brain and the behavior of model organisms. An example of this are recent connectomics studies conducted with respect to the Drosophila melanogaster; these studies have mapped the location of every neuron and synapse present in the Female Adult Fly Brain (FAFB), and the resulting dataset has recently been made available to the public as an open scientific resource (Codex, Schlegel _et al._, Zheng _et al._). The goal of this investigation is to use this dataset to evaluate the processes behind thermal nociception, or the neurological processing that results in an organism reacting to harmful temperatures in the environment. By analyzing the first-order input, output, and reciprocal neurons which are known to be involved in thermal nociception, we can begin to analyze different patterns and statistical correlations in these neurological pathways that were once overlooked. This analysis holds the keys to novel insights regarding the process of thermal nociception and neural control of behavior.
 
+## __Screenshots__
+
+Below are a few screenshots from the final presentation uploaded to this GitHub Repository.
+
+![plp.79_and_plp.lo.13](https://github.com/jjessicahorton/thermal-nociception-connectome/blob/5752c34467f2b68f89bd39924d3fb434fed521a5/plp_.79_and_plp.lo.13.png)
+
+![plp.79_downstream](https://github.com/jjessicahorton/thermal-nociception-connectome/blob/5752c34467f2b68f89bd39924d3fb434fed521a5/plp_79_downstream.png)
+
+![plp.lo.13_upstream](https://github.com/jjessicahorton/thermal-nociception-connectome/blob/5752c34467f2b68f89bd39924d3fb434fed521a5/plp_lo_13_upstream.png)
+
+![shared_1st_order_neurons](https://github.com/jjessicahorton/thermal-nociception-connectome/blob/5752c34467f2b68f89bd39924d3fb434fed521a5/shared_1st_order_neurons.png)
+
 ## __Informal Side Commentary__
 This is the final abstract I submtitted to App State's Celebration of Research in the Spring of 2025 on behalf of my undergraduate research project, which was approved for an oral presentation. In this repository, I have attached the powerpoint used to present this project, alongisde the source code used to build these brain maps. Essentially, what this project is investigating is the primary connections between all of the neurons that send, recieve, and reciprocate electrical signals to each neuron that have, up until the time of this presentation, been annoatated in the FAFB dataset to possess the neuropeptide, Allatostain C (Codex, Bachtel _et al._, Liu _et al._). Allatostatin C is of great importance to us when studying the _Drosophila_ connectome, because it is a paralog to the neuropeptide humans possess, Somatostatin, and previous literature has confirmed that Allatostain C is directly involved in thermal nociception, otherwise known as temperature-induced pain processing (Bachtel _et al._, Zhang _et al._). _Drosophila_ share approximately 75% of our genetics with us, and likewise they are incredibly small, they have short life spans, and they're very affordable to maintain (Yamaguchi _et al._). Thus, researchers can study a population the size of New York City in just a few short weeks using this invaluable model organism. This is the choice model organism of my former research advisor, [Dr. Andy Bellemer](https://biology.appstate.edu/directory/dr-andrew-bellemer), hence this organism being the focus of this project.
 
 The vast majority of my time in Dr. Bellemer's research lab consisted of rigorous self study regarding the genetics and the cellular and molecular biology of the _Drosophila melanogaster_, alongside teaching myself how to create an intensive Python program such as this. My introductory Physics classes served me well by introducing me to Python, but it was in Dr. Bellemer's lab that my skills were pushed past their limits, and truly developed to the extent at which they are at now.
 
 Thank you for taking the time to look at my project! 
+
 
 ## __Sources__
 
