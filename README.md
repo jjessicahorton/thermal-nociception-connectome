@@ -6,7 +6,7 @@ As technology advances and our understanding of the brain evolves, a convergence
 
 ## __Screenshots__
 
-Below are a few screenshots from the final presentation uploaded to this GitHub Repository.
+Below are a few screenshots from the final presentation uploaded to this GitHub Repository. To view all of the brain maps I created, please view the `.pdf` titled `FINAL PRESENTATION Understanding Thermal Nociception Behavior (J Horton).pdf`.
 
 ![plp.79_and_plp.lo.13](https://github.com/jjessicahorton/thermal-nociception-connectome/blob/5752c34467f2b68f89bd39924d3fb434fed521a5/plp_.79_and_plp.lo.13.png)
 
